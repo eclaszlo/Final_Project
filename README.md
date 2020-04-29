@@ -30,8 +30,9 @@ Future plans:
     * Contributions
   * Member 3
     * Contributions
-  * Member 4
+  * Emily Laszlo
     * Contributions
 
 
 The gun model was made by me in blender, while all other models are from kenny.nl 
+Background music made with help from Jinglehaus Records
